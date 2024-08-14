@@ -1,0 +1,8 @@
+#line 1 "C:\\wamp64\\www\\Arduino-DMXLed\\.vscode\\arduino.json"
+{
+    "sketch": "arduino-dmxled.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "COM4",
+    "programmer": "arduinoisp"
+}
